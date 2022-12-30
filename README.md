@@ -14,6 +14,7 @@
  - [Throw & Throw ex](https://github.com/abouhamze-fahime/Learning/wiki/Throw--&-Throw-ex)
  - [asynchronous & synchronous](https://github.com/abouhamze-fahime/Learning/wiki/asynchronous-&-synchronous)
  - [Procedural Oriented & Object Oriented Programing](https://github.com/abouhamze-fahime/Learning/wiki/Procedural-Oriented--&-Object---Oriented-Programing)
+ - [Solid Principle](https://github.com/abouhamze-fahime/Learning/wiki/Solid-Principles)
  
  ### C#
  
