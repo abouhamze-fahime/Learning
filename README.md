@@ -11,6 +11,7 @@
  - [Delegate](https://github.com/abouhamze-fahime/Learning/blob/main/OOP/Delegate.pdf)
  - [Class Type](https://github.com/abouhamze-fahime/Learning/wiki#class-type)
  - [stack trace](https://github.com/abouhamze-fahime/Learning/wiki/stack-trace#stack-trace-%DA%86%DB%8C%D8%B3%D8%AA-)
+ - [Throw & Throw ex](https://github.com/abouhamze-fahime/Learning/wiki/Throw--&-Throw-ex)
  
  ### C#
  
