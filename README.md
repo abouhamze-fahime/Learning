@@ -17,6 +17,8 @@
  
  ### C#
  
+ - [Entity states](https://github.com/abouhamze-fahime/Learning/wiki/Entity-states)
+ 
  
  
  ### ASP.net Core
