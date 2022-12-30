@@ -9,6 +9,7 @@
  - [Method overriding & overloading](https://github.com/abouhamze-fahime/Learning/blob/main/OOP/OverLoading_Overriding.pdf)
  - [Access Modifier](https://github.com/abouhamze-fahime/Learning/blob/main/OOP/AccessModifier.pdf)
  - [Delegate](https://github.com/abouhamze-fahime/Learning/blob/main/OOP/Delegate.pdf)
+ - [Class Type](https://github.com/abouhamze-fahime/Learning/wiki#class-type)
  
  ### C#
  
