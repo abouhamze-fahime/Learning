@@ -15,10 +15,22 @@
  - [asynchronous & synchronous](https://github.com/abouhamze-fahime/Learning/wiki/asynchronous-&-synchronous)
  - [Procedural Oriented & Object Oriented Programing](https://github.com/abouhamze-fahime/Learning/wiki/Procedural-Oriented--&-Object---Oriented-Programing)
  - [Solid Principle](https://github.com/abouhamze-fahime/Learning/wiki/Solid-Principles)
+ - [Inheritance Principle]
+ - [Polymorphism]
+ - [Abstract Class]
+ - [Static]
+ - [Seald]
+ - [Params]
+ - [Partial Class]
+ - [Dispose]
+ - [Hiding inheritance Members]
+
  
  ### C#
  
  - [Entity states](https://github.com/abouhamze-fahime/Learning/wiki/Entity-states)
+ - [File stream]
+ - [Dependency Injection]
  
  
  
