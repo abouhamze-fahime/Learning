@@ -31,7 +31,9 @@
  - [Entity states](https://github.com/abouhamze-fahime/Learning/wiki/Entity-states)
  - [File stream]
  - [Dependency Injection]
+ - [Generic]
  
  
  
  ### ASP.net Core
+ -[Identity]
