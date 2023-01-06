@@ -24,6 +24,7 @@
  - [Partial Class]
  - [Dispose]
  - [Hiding inheritance Members]
+ - [Lazy load & Eager load]
 
  
  ### C#
@@ -31,9 +32,9 @@
  - [Entity states](https://github.com/abouhamze-fahime/Learning/wiki/Entity-states)
  - [File stream]
  - [Dependency Injection]
- - [Generic]
+ - [Generic collection]
  
  
  
  ### ASP.net Core
- -[Identity]
+ - [Identity]
