@@ -17,7 +17,7 @@
  - [Solid Principle](https://github.com/abouhamze-fahime/Learning/wiki/Solid-Principles)
  - [Inheritance Principle]
  - [Polymorphism]
- - [Abstract Class]
+ - [Abstract Class & Method](https://github.com/abouhamze-fahime/Learning/wiki/Abstract-Classes-and-Methods)
  - [Static](https://github.com/abouhamze-fahime/Learning/wiki/Static-type-for-method-and-class)
  - [Seald]
  - [Params]
