@@ -18,7 +18,7 @@
  - [Inheritance Principle]
  - [Polymorphism]
  - [Abstract Class]
- - [Static]
+ - [Static] (https://github.com/abouhamze-fahime/Learning/wiki/Static-type-for-method-and-class)
  - [Seald]
  - [Params]
  - [Partial Class]
