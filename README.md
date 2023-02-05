@@ -19,7 +19,7 @@
  - [Polymorphism](https://github.com/abouhamze-fahime/Learning/wiki/Polymorphism)
  - [Abstract Class & Method](https://github.com/abouhamze-fahime/Learning/wiki/Abstract-Classes-and-Methods)
  - [Static](https://github.com/abouhamze-fahime/Learning/wiki/Static-type-for-method-and-class)
- - [Seald]
+ - [Seald](https://github.com/abouhamze-fahime/Learning/wiki/Seald-in-class-and-method)
  - [Params]
  - [Partial Class]
  - [Dispose]
