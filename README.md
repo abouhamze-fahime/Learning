@@ -15,7 +15,7 @@
  - [asynchronous & synchronous](https://github.com/abouhamze-fahime/Learning/wiki/asynchronous-&-synchronous)
  - [Procedural Oriented & Object Oriented Programing](https://github.com/abouhamze-fahime/Learning/wiki/Procedural-Oriented--&-Object---Oriented-Programing)
  - [Solid Principle](https://github.com/abouhamze-fahime/Learning/wiki/Solid-Principles)
- - [Inheritance Principle]
+ - [Inheritance Principle](https://github.com/abouhamze-fahime/Learning/wiki/inheritance)
  - [Polymorphism](https://github.com/abouhamze-fahime/Learning/wiki/Polymorphism)
  - [Abstract Class & Method](https://github.com/abouhamze-fahime/Learning/wiki/Abstract-Classes-and-Methods)
  - [Static](https://github.com/abouhamze-fahime/Learning/wiki/Static-type-for-method-and-class)
