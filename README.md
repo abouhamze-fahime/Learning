@@ -25,6 +25,11 @@
  - [Dispose]
  - [Hiding inheritance Members]
  - [Lazy load & Eager load]
+ - [Anonymous Types]()
+ - [Hide base method]
+ - [yield]
+ - [using]
+ 
 
  
  ### C#
