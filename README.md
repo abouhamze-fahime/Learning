@@ -44,5 +44,5 @@
  ### ASP.net Core
  - [Identity]
  - [Content Negotiation]
- - [DownLoad file]
+ - [DownLoad file](https://github.com/abouhamze-fahime/Learning/wiki/Download-files-in-Asp.Net-Core)
  - [Output-API-Json-Xml](https://github.com/abouhamze-fahime/Learning/wiki/OutPut-API-JSON-XML)
