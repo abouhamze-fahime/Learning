@@ -43,3 +43,6 @@
  
  ### ASP.net Core
  - [Identity]
+ - [Content Negotiation]
+ - [DownLoad file]
+ - [Output-API-Json-Xml]
