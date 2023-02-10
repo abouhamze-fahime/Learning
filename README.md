@@ -46,3 +46,4 @@
  - [Different Ways of passing data to an API]
  - [DownLoad file](https://github.com/abouhamze-fahime/Learning/wiki/Download-files-in-Asp.Net-Core)
  - [Output-API-Json-Xml-Content Negotiation](https://github.com/abouhamze-fahime/Learning/wiki/OutPut-API-JSON-XML)
+ - [Patch Request]()
