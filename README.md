@@ -43,6 +43,6 @@
  
  ### ASP.net Core
  - [Identity]
- - [Content Negotiation]
+ - [Different Ways of send information to an API]
  - [DownLoad file](https://github.com/abouhamze-fahime/Learning/wiki/Download-files-in-Asp.Net-Core)
- - [Output-API-Json-Xml](https://github.com/abouhamze-fahime/Learning/wiki/OutPut-API-JSON-XML)
+ - [Output-API-Json-Xml-Content Negotiation](https://github.com/abouhamze-fahime/Learning/wiki/OutPut-API-JSON-XML)
