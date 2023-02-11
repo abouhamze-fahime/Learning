@@ -29,6 +29,9 @@
  - [Hide base method]
  - [yield]
  - [using]
+ - [Domain Driven Design]()
+ - [string & string Builder]
+ - [constant va ReadOnly]
  
 
  
@@ -40,6 +43,12 @@
  - [Generic collection]
  - [Singleton Design Pattern]()
  - [Factory Design Pattern](https://github.com/abouhamze-fahime/Learning/wiki/Factory-Design-Pattern)
+ - [DI]()
+ - [IOC]()
+ - [Extension method]()
+ - [Fluent Validator]()
+ - [Fluent API]()
+ 
  
  
  
