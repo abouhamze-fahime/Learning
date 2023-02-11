@@ -39,7 +39,7 @@
  - [Dependency Injection]
  - [Generic collection]
  - [Singleton Design Pattern]()
- - [Factory Design Pattern]()
+ - [Factory Design Pattern](https://github.com/abouhamze-fahime/Learning/wiki/Factory-Design-Pattern)
  
  
  
