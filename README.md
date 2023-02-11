@@ -38,6 +38,8 @@
  - [File stream]
  - [Dependency Injection]
  - [Generic collection]
+ - [Singleton Design Pattern]()
+ - [Factory Design Pattern]()
  
  
  
