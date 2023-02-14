@@ -32,6 +32,8 @@
  - [Domain Driven Design]()
  - [string & string Builder]
  - [constant va ReadOnly]
+ - [Value type & Refrence Type]
+ - [String & Stringbuilder]
  
 
  
@@ -39,11 +41,10 @@
  
  - [Entity states](https://github.com/abouhamze-fahime/Learning/wiki/Entity-states)
  - [File stream]
- - [Dependency Injection]
+ - [Dependency Injection-DI]
  - [Generic collection]
  - [Singleton Design Pattern]()
  - [Factory Design Pattern](https://github.com/abouhamze-fahime/Learning/wiki/Factory-Design-Pattern)
- - [DI]()
  - [IOC]()
  - [Extension method]()
  - [Fluent Validator]()
