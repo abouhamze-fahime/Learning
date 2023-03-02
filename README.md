@@ -60,3 +60,4 @@
  - [Output-API-Json-Xml-Content Negotiation](https://github.com/abouhamze-fahime/Learning/wiki/OutPut-API-JSON-XML)
  - [Patch Request]()
  - [Scaffoling](https://github.com/abouhamze-fahime/Learning/wiki/Scaffolding)
+ - [Http Verbs]()
