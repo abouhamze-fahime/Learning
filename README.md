@@ -49,7 +49,7 @@
  - [Extension method]()
  - [Fluent Validator]()
  - [Fluent API]()
- - [Errors & Exceptions]()
+ - [Errors & Exceptions](https://github.com/abouhamze-fahime/Learning/wiki/Errors-&--Exceptions)
  
  
  
